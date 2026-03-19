@@ -1,4 +1,4 @@
-# He, I'm Ildebrando  👋
+# Hi, I'm Ildebrando — Ilde for short  👋
 
 Chemical Engineer turned Data Scientist, with a detour through chemical plants, oil & gas operations, and risk consulting across Europe and Latin America.
 
