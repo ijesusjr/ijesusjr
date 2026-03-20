@@ -23,7 +23,7 @@ I tend to approach things from an engineering mindset: understand the system, fi
 `Docker` `FastAPI` `MLflow` `Google Cloud Platform (GCP)` `Git` `GitHub`  `Streamlit`
 
 **🔬 From my engineering days (still very much alive)**  
-`Statistical Analysis` `Hypothesis Testing` `DOE` `A/B Testing` `Six Sigma Black Belt` `DMAIC` `Minitab`
+`Statistical Analysis` `Hypothesis Testing` `DOE` `A/B Testing` `Six Sigma Black Belt` `DMAIC` `Minitab` `Project Management` `Risk Assessment`
 
 ---
 
