@@ -40,12 +40,18 @@ Reduces assessment time from days to minutes, with direct applications in humani
 
 ---
 
+### 🧪 Distillation Column Soft-Sensor — ML Purity Prediction
+Built an XGBoost soft-sensor to predict ethanol concentration in distillation columns by analyzing 21 process variables (temperatures, flow rates, compositions) from a Kaggle dataset (4,408 **simulated** samples). Deployed as an interactive Streamlit web app where user adjust process variables via sliders and receive instant purity predictions with feature importance visualization.
+Replaces time-consuming lab analysis (hours) with real-time soft-sensor predictions (seconds), enabling continuous process control with direct applications in process optimization and quality assurance.
+
+🔗 [Check the repo](https://github.com/ijesusjr/distillation-soft-sensor) | [Live Demo](https://ijesusjr-distillation-soft-sensor.streamlit.app/)
+
+---
+
 ### ⚗️ By-Product Loss Reduction — Six Sigma Black Belt @ Solvay
 Not a GitHub project, but worth mentioning here.
 
 Led a Black Belt initiative at a chemical plant to address significant losses of a chemical product. Applied DMAIC, multivariate analysis, and DOE to identify the critical process parameters, then followed through with actual plant modifications to lock in the gains. Result: +€300K/year in recurring savings.
-
-The lesson that stayed with me: the best analysis is worth nothing if it doesn't translate into action.
 
 ---
 
