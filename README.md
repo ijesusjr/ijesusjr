@@ -1,8 +1,8 @@
 # Hi, I'm Ildebrando — Ilde for short  👋
 
-Chemical Engineer turned Data Scientist, with a detour through chemical plants, oil & gas operations, and risk consulting across Europe and Latin America.
+Chemical Engineer with 15+ years of experience navigating the complexities of industrial plants, oil & gas operations, and risk consulting across Europe and Latin America.
 
-After 15+ years working with a mix of engineering, data, risk management and business impact, I recently completed a full-time Data Science & AI bootcamp at Le Wagon in Barcelona. Not because I needed a career change, but because I wanted to do intentionally what I had been doing for years: use data to solve real problems.
+I recently completed a Data Science & AI bootcamp at Le Wagon to formalize a hybrid skill set. My objective is to bridge the gap between traditional Chemical Engineering and Process Safety and modern data analytics. I don’t just see rows of data; I see pressure gradients, thermal reactions, and potential hazards that require precise, data-driven oversight.
 
 I tend to approach things from an engineering mindset: understand the system, find the leverage point, validate the solution, and make sure it actually sticks. That's worked well in industrial plants, and it turns out it works pretty well in data science too.
 
@@ -22,7 +22,7 @@ I tend to approach things from an engineering mindset: understand the system, fi
 **⚙️ MLOps & Engineering**  
 `Docker` `FastAPI` `MLflow` `Google Cloud Platform (GCP)` `Git` `GitHub`  `Streamlit`
 
-**🔬 From my engineering days (still very much alive)**  
+**🔬 From my engineering days**  
 `Statistical Analysis` `Hypothesis Testing` `DOE` `A/B Testing` `Six Sigma Black Belt` `DMAIC` `Minitab` `Project Management` `Risk Assessment`
 
 ---
