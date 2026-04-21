@@ -1,6 +1,6 @@
 # Hi, I'm Ildebrando — Ilde for short  👋
 
-Chemical Engineer with 15+ years of experience navigating the complexities of industrial plants, oil & gas operations, and risk consulting across Europe and Latin America.
+Chemical Engineer with 15+ years of experience navigating the complexities of industrial plants, oil & gas operations, and process safety & risk consulting across Europe and Latin America.
 
 I recently completed a Data Science & AI bootcamp at Le Wagon to formalize a hybrid skill set. My objective is to bridge the gap between traditional Chemical Engineering and Process Safety and modern data analytics. I don’t just see rows of data; I see pressure gradients, thermal reactions, and potential hazards that require precise, data-driven oversight.
 
@@ -37,6 +37,13 @@ Trained computer vision models on the xBD dataset (850K+ building annotations, 4
 Reduces assessment time from days to minutes, with direct applications in humanitarian response and insurance risk management.
 
 🔗 [Check the repo](https://github.com/ijesusjr/vista) 
+
+---
+
+### 🛡️ HAVEN — Hazard-Aware Vigilance and Emergency Navigator
+An AI-driven resilience copilot helping EU citizens prepare for emergencies. It integrates real-time climate, health, and humanitarian risk data with household inventory analysis and a RAG agent to deliver verified, official guidance.
+
+🔗 [Check the repo](https://github.com/ijesusjr/haven) | [Live Demo](https://haven-app.streamlit.app/)
 
 ---
 
