@@ -48,7 +48,7 @@ An AI-driven resilience copilot helping EU citizens prepare for emergencies. It 
 ---
 
 ### 🧪 Distillation Column Soft-Sensor — ML Purity Prediction
-Built an XGBoost soft-sensor to predict ethanol concentration in distillation columns by analyzing 21 process variables (temperatures, flow rates, compositions) from a Kaggle dataset (4,408 **simulated** samples). Deployed as an interactive Streamlit web app where user adjust process variables via sliders and receive instant purity predictions with feature importance visualization.
+Built a soft-sensor to predict ethanol concentration in distillation columns by analyzing 21 process variables (temperatures, flow rates, compositions) from a Kaggle dataset (4,408 **simulated** samples). Deployed as an interactive Streamlit web app where user adjust process variables via sliders and receive instant purity predictions with feature importance visualization.
 Replaces time-consuming lab analysis (hours) with real-time soft-sensor predictions (seconds), enabling continuous process control with direct applications in process optimization and quality assurance.
 
 🔗 [Check the repo](https://github.com/ijesusjr/distillation-soft-sensor) | [Live Demo](https://ijesusjr-distillation-soft-sensor.streamlit.app/)
