@@ -36,7 +36,7 @@ Trained computer vision models on the xBD dataset (850K+ building annotations, 4
 
 Reduces assessment time from days to minutes, with direct applications in humanitarian response and insurance risk management.
 
-🔗 [Check the repo](https://github.com/ijesusjr/vista) 
+🔗 [Check the repo](https://github.com/ijesusjr/vista) | [Project presentation](https://youtu.be/xPWlFlCR99M?si=0rF5ZSgBVF6_e-Xt)
 
 ---
 
