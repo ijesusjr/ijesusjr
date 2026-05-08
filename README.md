@@ -1,10 +1,10 @@
 # Hi, I'm Ildebrando — Ilde for short  👋
 
-Chemical Engineer with 15+ years of experience navigating the complexities of industrial plants, oil & gas operations, and process safety & risk consulting across Europe and Latin America.
+Data Scientist and Chemical Engineer with 15+ years in manufacturing and industrial consulting, including 6+ years in operations data analytics, statistical analysis, and data-driven improvement projects applying Lean Six Sigma methodology.
 
-I recently completed a Data Science & AI bootcamp at Le Wagon to formalize a hybrid skill set. My objective is to bridge the gap between traditional Chemical Engineering and Process Safety and modern data analytics. I don’t just see rows of data; I see pressure gradients, thermal reactions, and potential hazards that require precise, data-driven oversight.
+Completed a Data Science & AI bootcamp in early 2026 (Python, SQL, Machine Learning, Deep Learning, GenAI, MLOps), with multiple end-to-end data products deployed, including predictive models and computer vision pipelines.
 
-I tend to approach things from an engineering mindset: understand the system, find the leverage point, validate the solution, and make sure it actually sticks. That's worked well in industrial plants, and it turns out it works pretty well in data science too.
+Trilingual (Portuguese, English, Spanish) with international experience across Europe, LATAM, and the Middle East.
 
 ---
 
